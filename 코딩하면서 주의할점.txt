@@ -3,7 +3,7 @@ ios_base::sync_with_stdio(false);
 cin.tie(NULL);
 cout.tie(NULL);
 입출력속도를 높여줘서 좋긴하나, scanf printf랑 섞어쓰면 오류가 생길 수 있음 ( 실제로 백준 문제 이거때문에 틀렸습니다를 겪었음 ) 
-
+ㅂㄷㅂㄷ 이거때문에 약 1~2시간을 헤맸다..
 
 2. 
   
